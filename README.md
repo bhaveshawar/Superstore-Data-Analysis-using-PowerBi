@@ -11,6 +11,21 @@ The Superstore Sales Dashboard provides a comprehensive view of sales performanc
 
 ---
 
+📊 Key Dashboard Features
+🔹 Key Performance Indicators (KPIs)
+
+Total Sales: 1.6M
+
+Total Orders: 22K
+
+Total Profit: 175K
+
+Average Shipping Days: 4
+
+
+
+---
+
 ## 🛠 Tools & Technologies Used
 
 * **Power BI** – Data modeling, dashboard creation, DAX measures
